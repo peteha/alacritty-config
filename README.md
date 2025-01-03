@@ -7,7 +7,7 @@ windows/wsl/alacritty.toml
 
 Instructions:
 
-Copy filto C:\Users\{user}\AppData\Roaming\alacritty
+Copy file to `C:\Users\{user}\AppData\Roaming\alacritty`
 
 Uses JetBrainMono Font.  To install:
 ```
