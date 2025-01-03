@@ -1,4 +1,4 @@
-# alacritty-confi
+# alacritty-config
 
 Alacritty Configurations for Windows and MacOS.
 
