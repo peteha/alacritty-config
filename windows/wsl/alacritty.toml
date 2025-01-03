@@ -22,12 +22,7 @@ primary.foreground = "#c5c8c6"
 style = "Block"
 
 [keyboard]
-bindings = [
-{ key = "Paste",   mods = "Control", action = "Paste" },
-{ key = "Copy",    mods = "Control", action = "Copy" },
-{ key = "V",       mods = "Control", action = "Paste" },
-{ key = "C",    mods = "Control", action = "Copy" }
-]
+bindings = []
 
 [mouse]
 bindings = [
